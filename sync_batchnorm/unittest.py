@@ -8,7 +8,7 @@
 # https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
 # Distributed under MIT License.
 
-import unittest
+from . import unittest
 
 import numpy as np
 from torch.autograd import Variable
